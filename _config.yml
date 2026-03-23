@@ -1,1 +1,17 @@
+title: Giddha Pahar Homestay
+author: Anmol Chettri
+description: >-
+  A personal sanctuary in Kurseong, right by St. Anthony's School. 
+  Experience the impeccable sunrises and misty moods of the hills.
+  
+# Site settings
+theme: minima
+remote_theme: jekyll/minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
 
+# Social links (Optional)
+header_pages:
+  - about.md
+  - contact.md
